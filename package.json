@@ -1,0 +1,17 @@
+{
+  "name": "fp",
+  "version": "1.0.0",
+  "description": "函数式编程实践",
+  "main": "./index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest test"
+  },
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.19"
+  }
+}
